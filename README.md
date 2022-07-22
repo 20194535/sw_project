@@ -10,4 +10,7 @@
 3. 기본적인 워머 전구 on/off 기능
 ![20194535_구현영상3_AdobeExpress](https://user-images.githubusercontent.com/96333497/180367948-569817ea-ff62-4fda-b77b-be17ff8faa49.gif)
 
-4. 
+4. 조도센서를 통한 어두울때 on, 밝을때 off 기능
+![20194535_구현영상4-2_AdobeExpress](https://user-images.githubusercontent.com/96333497/180368386-a8f33580-24de-4e4f-a6c1-3739f0678067.gif)
+
+5. 캔들 잔여량이 얼마 남지 않았을때 부저를 통해 
