@@ -9,6 +9,7 @@
 
 
 - 시계 적상 작동 시현
+
 ![20194535_구현영상1_AdobeExpress](https://user-images.githubusercontent.com/96333497/180367185-e0e63f67-63f9-4fb3-9105-96f020554a26.gif)
 
 
