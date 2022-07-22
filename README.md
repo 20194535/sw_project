@@ -5,7 +5,7 @@
 
 - 택트 스위치를 통한 워머 lcd의 초기 시간 설정
 
-![20194535_구현영상1_AdobeExpress](https://user-images.githubusercontent.com/96333497/180367185-e0e63f67-63f9-4fb3-9105-96f020554a26.gif)
+![20194535_구현영상6_AdobeExpress](https://user-images.githubusercontent.com/96333497/180370887-70216b10-dcbd-482e-a273-2ab04af64065.gif)
 
 
 - 시계 적상 작동 시현
@@ -30,4 +30,4 @@
 
 - 캔들 잔여량을 lcd를 통해 수치화함
 
-![20194535_구현영상6_AdobeExpress](https://user-images.githubusercontent.com/96333497/180370887-70216b10-dcbd-482e-a273-2ab04af64065.gif)
+![20194535_구현영상1_AdobeExpress](https://user-images.githubusercontent.com/96333497/180367185-e0e63f67-63f9-4fb3-9105-96f020554a26.gif)
