@@ -4,3 +4,5 @@
 ![20194535_구현영상1_AdobeExpress](https://user-images.githubusercontent.com/96333497/180367185-e0e63f67-63f9-4fb3-9105-96f020554a26.gif)
 
 ![20194535_구현영상2_AdobeExpress](https://user-images.githubusercontent.com/96333497/180367869-1082f2ac-3714-4769-b839-7af674ec15b6.gif)
+
+![20194535_구현영상3_AdobeExpress](https://user-images.githubusercontent.com/96333497/180367948-569817ea-ff62-4fda-b77b-be17ff8faa49.gif)
