@@ -13,4 +13,7 @@
 4. 조도센서를 통한 어두울때 on, 밝을때 off 기능
 ![20194535_구현영상4-2_AdobeExpress](https://user-images.githubusercontent.com/96333497/180368386-a8f33580-24de-4e4f-a6c1-3739f0678067.gif)
 
-5. 캔들 잔여량이 얼마 남지 않았을때 부저를 통해 
+5. 캔들 잔여량이 얼마 남지 않았을때 부저를 통해 알림
+![20194535_구현영상5_AdobeExpress](https://user-images.githubusercontent.com/96333497/180368781-f7e24c4b-b297-43e5-9314-8b1e97bcbe5b.gif)
+
+6. 캔들 잔여량을 lcd를 통해 수치화함
