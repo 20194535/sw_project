@@ -3,8 +3,11 @@
 
 - 외부사진
 
+![20194535_워머사진2](https://user-images.githubusercontent.com/96333497/180373241-e79d3424-0ba6-41aa-ab58-47bfd6f48481.jpg)
+
 
 - 내부사진
+
 ![20194535_워머사진1](https://user-images.githubusercontent.com/96333497/180373032-ef5e3b20-f95b-4a25-9163-ae6651267196.jpg)
 
 
